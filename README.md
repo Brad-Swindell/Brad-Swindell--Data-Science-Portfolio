@@ -9,7 +9,8 @@
  - Converted String data fields to numeric using a look-up table and GetDummies command. 
  - Create Training and Testing datasets and run Logistic Regression model for prediction. 
  
- ![](/Images/Project%201%20-%20Histogram.png)
+ ![](/Images/Project1HR.png)
+ 
 
 ## [Project 2: SQL Database Table Joins in Python - EDA and Data Visualization](https://github.com/Brad-Swindell/SQL-Python-EDA---Pitchfork-Record-Review-DB)
 
@@ -18,7 +19,8 @@
  - Converted String data fields to numeric using a look-up table and GetDummies command. 
  - Create Training and Testing datasets and run Logistic Regression model for prediction. 
 
-![](/Images/Project%202%20-%20Pitchfork%20Reviews.png)
+![](/Images/Project2Pitchfork.png)
+
 
 ## [Project 3: Continious Output Prediction Model - Using R code and Linear Regression Model](https://github.com/Brad-Swindell/Mulitiple-Regression-Model--R-Code--Wine-Project)
 
@@ -26,4 +28,4 @@
  - Read in Data via R program code, conducted initial review of fields and data analysis via Pivot Tables.
  - Create Training and Testing datasets and run Linear Regression model for prediction. 
 
-![](/Images/Project%203%20-%20Scatter%20Plot%20of%20Wine%20Prices.png)
+![](/Images/Project3Wine.png)
