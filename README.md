@@ -2,7 +2,7 @@
 Data Science Portfolio - Projects using Python, SQL, R, Pandas, and Machine Learning Models
 
 
-### [Project 1 - Binary Classification Model - Using Python and Logistic Regression Model] (https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
+## [Project 1 - Binary Classification Model - Using Python and Logistic Regression Model](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
 
 
  - Using input data from Kaggle DataSet:  https://www.kaggle.com/giripujar/hr-analytics
