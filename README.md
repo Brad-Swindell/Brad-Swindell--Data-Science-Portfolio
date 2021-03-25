@@ -10,7 +10,7 @@
  - Create Training and Testing datasets and run Logistic Regression model for prediction. 
  
 
-## [Project 2 - Binary Classification Model - Using Python and Logistic Regression Model](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
+## [Project 2 - SQL Database Table Joins in Python - EDA and Data Visualization](https://github.com/Brad-Swindell/SQL-Python-EDA---Pitchfork-Record-Review-DB)
 
  - Using input HR turnover data set from Kaggle DataSet:  https://www.kaggle.com/giripujar/hr-analytics
  - Read in Data via Python Pandas, conducted initial review of fields and data analysis via Pivot Tables.
