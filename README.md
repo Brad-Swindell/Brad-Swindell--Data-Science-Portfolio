@@ -1,5 +1,6 @@
 # Brad-Swindell-Portfolio
 **Data Science Portfolio - Projects using Python, SQL, R, Pandas, Data Visualization, and Machine Learning Models**
+
 **Click Project Title link below to see Jupyter Notebooks with Python Code**
 
 ## [Project 1: Binary Classification Prediction Model - Using Python code and Logistic Regression Model](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
