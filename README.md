@@ -3,7 +3,7 @@
 
 **Click Project Title link below to see Jupyter Notebooks with detailed Python Code**
 
-## [Project 1: Binary Classification Prediction Model - Using Python code and Logistic Regression Model](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
+## [Project 1: Binary Classification Prediction Model - Using Python code and Logistic Regression](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
 
  - Using input HR turnover data set from Kaggle web site:  https://www.kaggle.com/giripujar/hr-analytics
  - Read in Data via Python Pandas, conducted initial review of fields and data analysis via Pivot Tables.
