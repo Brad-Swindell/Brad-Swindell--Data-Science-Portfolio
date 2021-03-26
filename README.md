@@ -31,3 +31,14 @@
  - Create Training and Testing datasets and run Linear Regression model for prediction. 
 
 ![](/Images/Project3Wine.png)
+
+
+## [Project 4: SQL Wildfire database in Python - Visualization and Multi-Class Prediction Model](https://github.com/Brad-Swindell/SQL-Python-Multiclass-Classification--Wildefire-DB)
+
+ - Using Wildfire SQL database from Kaggle web site: https://www.kaggle.com/rtatman/188-million-us-wildfires
+ - Exploratory Data Analysis is performed to analyze key variables in US Wildfires and relationships. 
+ - Assume Domain Knowledge to add a Catagory to the different types of Wildfire Causes. 
+ - Add Plotly Express "Tree Map" chart to visually show the catagories and causes of wildfires. 
+ - Create Logistic Model to predict the Catagory of wildfires given other variabls.  
+
+![](/Images/WildFireTreeMap.png)
