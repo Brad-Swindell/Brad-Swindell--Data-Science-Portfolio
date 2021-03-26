@@ -1,7 +1,7 @@
 # Brad-Swindell-Portfolio
 **Data Science Portfolio - Projects using Python, SQL, R, Pandas, Data Visualization, and Machine Learning Models**
 
-**Click Project Title link below to see Jupyter Notebooks with Python Code**
+**Click Project Title link below to see Jupyter Notebooks with detailed Python Code**
 
 ## [Project 1: Binary Classification Prediction Model - Using Python code and Logistic Regression Model](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
 
@@ -15,7 +15,7 @@
 
 ## [Project 2: SQL Database Table Joins in Python - EDA and Data Visualization](https://github.com/Brad-Swindell/SQL-Python-EDA---Pitchfork-Record-Review-DB)
 
- - Using input Pitchfork Album Review data set from Kaggle web site: https://www.kaggle.com/nolanbconaway/pitchfork-data
+ - Using input Pitchfork Album Review SQL database from Kaggle web site: https://www.kaggle.com/nolanbconaway/pitchfork-data
  - The multiple-table SQLite database is read into a DataFrame with Inner Join statements in Python.
  - Exploratory Data Analysis is performed to analyze key variables and relationships. 
  - DataFrame with the top 4 record labels represented for visualization 
