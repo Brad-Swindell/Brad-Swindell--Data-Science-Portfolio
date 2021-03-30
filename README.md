@@ -1,4 +1,4 @@
-# Brad-Swindell-Portfolio
+# Brad-Swindell-Portfolio 
 **Data Science Portfolio - Projects using Python, SQL, R, Pandas, Data Visualization, and Machine Learning Models**
 
 **Click Project Title link below to see Jupyter Notebooks with detailed Python Code**
