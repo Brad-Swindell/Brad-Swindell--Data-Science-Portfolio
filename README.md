@@ -41,4 +41,5 @@
  - Add Plotly Express "Tree Map" chart to visually show the catagories and causes of wildfires. 
  - Create Logistic Model to predict the Catagory of wildfires given other variabls.  
 
-![](/Images/WildFireTreeMap.png)
+![](/Images/WildFireTreeNew.jpg) 
+
