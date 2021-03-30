@@ -10,7 +10,7 @@
  - Converted String data fields to numeric using a look-up table and GetDummies command. 
  - Create Training and Testing datasets and run Logistic Regression model for prediction. 
  
- ![](/Images/HRData2Hist.jpg)
+ ![](/Images/HRDataNew.jpg)
  
 
 ## [Project 2: SQL Database Table Joins in Python - EDA and Data Visualization](https://github.com/Brad-Swindell/SQL-Python-EDA---Pitchfork-Record-Review-DB)
