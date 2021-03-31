@@ -37,9 +37,9 @@
 
  - Using Wildfire SQL database from Kaggle web site: https://www.kaggle.com/rtatman/188-million-us-wildfires
  - Exploratory Data Analysis is performed to analyze key variables in US Wildfires and relationships. 
- - Assume Domain Knowledge to add a Catagory to the different types of Wildfire Causes. 
- - Add Plotly Express "Tree Map" chart to visually show the catagories and causes of wildfires. 
- - Create Logistic Model to predict the Catagory of wildfires given other variabls.  
+ - Assume Domain Knowledge to add a Category to the different types of Wildfire Causes. 
+ - Add Plotly Express "Tree Map" chart to visually show the categories and causes of wildfires. 
+ - Create Logistic Model to predict the Category of wildfires given other variables.  
 
 ![](/Images/WildFireTree3.jpg) 
 
