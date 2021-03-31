@@ -6,9 +6,10 @@
 ## [Project 1: Binary Classification - Python code and Machine Learning Models for Prediction](https://github.com/Brad-Swindell/Binary-Classification-Model--Python--HR-Data)
 
  - Using input HR turnover data set from Kaggle web site:  https://www.kaggle.com/giripujar/hr-analytics
- - Read in Data via Python Pandas, conducted initial review of fields and data analysis via Pivot Tables.
- - Converted String data fields to numeric using a look-up table and GetDummies command. 
- - Create Training and Testing datasets and run Logistic Regression model for prediction. 
+ - Read in data via Python Pandas DataFrame, conducted initial review of fields and data analysis via Pivot Tables.
+ - Converted String data fields to numeric using a look-up table for one and GetDummies command for the other. 
+ - Create Training and Testing datasets and run Logistic Regression, SVC, and Random Forest Machine Learning models for prediction.
+ - Random Forest is best prediction model for this data with a score of 99. 
  
  ![](/Images/HRDataNew.jpg)
  
