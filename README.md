@@ -18,10 +18,14 @@
 
  - Using Pitchfork Album Review SQL database from Kaggle web site: https://www.kaggle.com/nolanbconaway/pitchfork-data
  - The multiple-table SQLite database is read into a DataFrame with Inner Join statements in Python.
- - Exploratory Data Analysis is performed to analyze key variables and relationships. 
- - DataFrame with the top 4 record labels represented for visualization 
+ - Exploratory Data Analysis is performed to analyze key variables and relationships.
+ - Pivot Table created with the Genre of albums reviewed by Year.
+ - DataFrame created from Pivot Table and format converted to "Regular" Dataframe for charting.
+ - A Matplotlib line chart created showing album review Genres by Year. 
+ - DataFrame created with the top 4 record labels represented for visualization. 
  - A Plotly Express "SunBurst" chart created to display Pitchfork's top record labels and music genres for each one. 
 
+![](/Images/PitchforkLineChart.png)
 ![](/Images/PitchforkNew.jpg)
 
 
