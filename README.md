@@ -25,7 +25,7 @@
  - DataFrame created with the top 4 record labels represented for visualization. 
  - A Plotly Express "SunBurst" chart created to display Pitchfork's top record labels and music genres for each one. 
 
-![](/Images/PitchforkLineChart.png)
+![](/Images/PitchforkLineChart2.png)
 ![](/Images/PitchforkNew.jpg)
 
 
