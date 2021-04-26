@@ -25,8 +25,8 @@
  - DataFrame created with the top 4 record labels represented for visualization. 
  - A Plotly Express "SunBurst" chart created to display Pitchfork's top record labels and music genres for each one. 
 
-![](/Images/PitchforkLineChart2.png)
-![](/Images/PitchforkNew.jpg)
+![](/Images/PitchforkLineChart4.png)
+![](/Images/PitchforkSunburstChart4.jpg)
 
 
 ## [Project 3: Continuous Output Prediction Model - Using R code and Linear Regression Model](https://github.com/Brad-Swindell/Mulitiple-Regression-Model--R-Code--Wine-Project)
